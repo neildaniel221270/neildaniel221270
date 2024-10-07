@@ -1,7 +1,3 @@
-Here is a draft for the `README.md` file based on your Banijay project:
-
----
-
 # Banijay TV Viewership Analysis Project
 
 ## Project Description

@@ -1,7 +1,3 @@
-Here is a draft for the `README.md` file based on your project:
-
----
-
 # SDG Dashboard Project
 
 ## Project Description

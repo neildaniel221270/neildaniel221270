@@ -1,7 +1,3 @@
-Here is a rewritten version of the project for the `README.md`:
-
----
-
 # AI in Media Studies at BUAS
 
 ## Project Description

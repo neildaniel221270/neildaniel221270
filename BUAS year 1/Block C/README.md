@@ -1,7 +1,3 @@
-Here is a draft for the `README.md` file based on your Innovation Square project:
-
----
-
 # Bannalyzer: Image Classification for Banana Freshness
 
 ## Project Description
