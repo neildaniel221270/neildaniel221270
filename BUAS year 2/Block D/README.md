@@ -24,8 +24,5 @@ The application leverages state-of-the-art machine learning techniques to facili
 - **Command-Line Interface (CLI) Development**: Developed expertise in creating user-friendly CLI applications for enhanced usability.
 - **Version Control and Collaboration**: Enhanced skills in using Git for version control and collaboration on software projects.
 
-## Key Findings
-* 
-
 ---
 The **Plant Segmentation and Landmark Detection Application** provides a powerful tool for researchers to analyze plant images effectively, integrating advanced machine learning techniques with practical applications in plant science. This project has laid the foundation for future developments in automated plant phenotyping and research methodologies.
