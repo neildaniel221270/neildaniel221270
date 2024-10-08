@@ -1,0 +1,50 @@
+name: Python Unit Tests
+
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: [3.7, 3.8, 3.9, 3.10]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install Poetry
+        run: |
+          curl -sSL https://install.python-poetry.org | python -
+
+      - name: Install dependencies
+        run: |
+          poetry install
+
+      - name: Install pytest-cov
+        run: |
+          poetry add pytest-cov
+
+      - name: Run unit tests with coverage
+        run: |
+          poetry run pytest --cov=src tests
+
+      - name: Run tests from src folder with coverage
+        run: |
+          poetry run pytest --cov=src src
+
+      - name: Upload coverage report
+        uses: actions/upload-artifact@v3
+        with:
+          name: coverage-report
+          path: coverage.xml
+
+      - name: Generate coverage report
+        run: |
+          poetry run coverage xml
