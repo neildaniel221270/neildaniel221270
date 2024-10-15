@@ -14,7 +14,10 @@ Hello and welcome! I'm passionate about solving real-world problems using data-d
 #### **Machine Learning Projects**
 - **TV Viewership Prediction with Banijay Group**  
   Analyzed multiple data sources, including Twitter metrics, to develop a predictive model for TV ratings, enabling better content strategy for Banijay's TV shows.
-  
+
+- **Verbeter Breda - Improving City Quality of Life**  
+  Collaborated with the Municipality of Breda to analyze data related to housing, education, and income, developing machine learning models to identify factors that contribute to the quality of life in Breda’s neighborhoods.
+
 - **Sustainable Development Goals (SDGs) Dashboard**  
   Created an interactive dashboard to compare countries on SDG-related metrics like access to clean water and economic growth.
 
@@ -36,5 +39,4 @@ Hello and welcome! I'm passionate about solving real-world problems using data-d
 - **MLOps**: Deployment on Azure, CI/CD, automation, scalable systems
 
 ---
-
 Explore the repositories to learn more about the detailed technical implementations, findings, and key takeaways from each project!
