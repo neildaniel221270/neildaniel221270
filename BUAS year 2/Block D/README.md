@@ -1,7 +1,3 @@
-Here’s the revised `README.md` file, incorporating a brief project description, what was done, and skills gained:
-
----
-
 # Plant Segmentation and Landmark Detection Application
 
 ## Overview
