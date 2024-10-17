@@ -16,7 +16,7 @@ We actively collaborated with key stakeholders in the media department to ensure
 This project provided BUAS with insightful data on how AI is perceived across the media studies community and offered guidance on future curriculum development. For me, this experience sharpened my skills in data analysis, stakeholder management, and strategic problem-solving. Additionally, it deepened my understanding of both qualitative and quantitative research techniques.
 
 ## Skills Gained
-- **Qualitative Research**: Conducted interviews with staff and students, gaining nuanced insights into their perspectives on AI.
+- **Qualitative Research**: Conducted interviews with staff and students, gaining nuanced  insights into their perspectives on AI.
 - **Data Visualization**: Developed clear, impactful visual representations of the research findings using R.
 - **Data Analysis**: Preprocessed and analyzed survey data, uncovering patterns and trends.
 - **Survey Design**: Created detailed, structured surveys to gather data on AI attitudes.
